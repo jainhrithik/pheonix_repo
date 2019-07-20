@@ -22,5 +22,6 @@ int z=add();
 
 you make my day always
 
+public void test()
 
 }
